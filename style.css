@@ -1,0 +1,21 @@
+body{
+    background: #75B4E3;
+}
+
+.header{
+    color:  #123456;
+}
+
+.row-cont{
+    display: flex;
+    justify-content: space-around;
+}
+
+i{
+    margin-top: 0;
+    font-size:  35px;
+}
+
+.bottom{
+    margin-bottom: 100px;
+}
