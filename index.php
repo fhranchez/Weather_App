@@ -144,9 +144,9 @@
 	 
 	 
 
-	<footer class="footer py-3 bg-secondary text-center">
+	<footer class="footer py-3 bg-light text-center">
 	  <div class="container">
-	    <span class="text-light">A Simple Weather App Landing Page &copy 2022.</span>
+	    <span class="lead">A Simple Weather App Landing Page &copy 2022.</span>
 	  </div>
 	</footer>
 		
